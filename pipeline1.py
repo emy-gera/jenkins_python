@@ -12,3 +12,6 @@ print("List3 =", List3)
 
 indexvalue = List2[2:6]
 print("The index values are", indexvalue)
+
+
+print('\nnew commit from PyCharm where smth is written')
